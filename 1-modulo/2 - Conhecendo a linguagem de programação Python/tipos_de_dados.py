@@ -1,0 +1,5 @@
+print(1 + 10 * 1000) #numeros inteiros (int)
+print(1.5 + 2.5) #ponto fluente (flot)
+print(True) #tipo booleando (Começa com letra maiúscula)
+print(False) #tipo booleando (Começa com letra maiúscula)
+print('P', "pp", """p""") # String (Str)

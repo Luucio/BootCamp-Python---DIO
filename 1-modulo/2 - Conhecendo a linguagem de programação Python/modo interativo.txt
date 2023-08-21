@@ -1,0 +1,15 @@
+executar
+1- no terminal "Python"
+2- executando script com comando: "Python - i nomeDoArquivo.py"
+
+Sair
+exit()
+
+função "dir" verificar escopo
+1- dir () Escopo local
+2- dir (100) Ver todos os metodos do escopo do objeto "100" resumindo, um inteiro(int).
+
+função help
+solicitando ajuda referente a algum objeto
+1- help() Você pesquisa o objeto (para sair da pesquisa clicar no "Q") (para sair do help aperta "Enter")
+2- help() Você passa o objeto que deseja como parametro
